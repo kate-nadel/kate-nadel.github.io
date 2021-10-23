@@ -1,7 +1,67 @@
+
 body {
   margin: 2;
-  background: white;
   font-family: monospace;
   font-weight: bold;
-  background-color: blue;
+  background-color: #d2ebe0 !important;
+
+}
+
+
+
+.col-8 {
+  background-color: white
+
+}
+
+
+
+h1 {
+  font-family: monospace;
+  color: green;
+  font-weight: bold;
+  font-size: 30px
+}
+
+h3 {
+  color: green;
+  font-size: 20px
+}
+
+
+
+/* .container-fluid {
+  background-color: black;
+
+} */
+
+
+}
+
+
+p {
+  font-weight: normal;
+}
+
+/*links*/
+
+.nav-item a:link {
+  color: green;
+
+}
+
+.nav-item a:visited {
+  color: black;
+
+}
+
+.nav-item a:hover{
+  color: white;
+
+}
+
+/* how to make current page link a color?? */
+.nav-item a:active {
+  color: blue;
+
 }
