@@ -2,17 +2,19 @@
 body {
   margin: 2;
   font-family: monospace;
-  font-weight: bold;
+  /* font-weight: bold; */
   background-color: #d2ebe0 !important;
 
 }
 
 
-
 .col-8 {
   background-color: white
 
+
 }
+
+
 
 
 
@@ -44,6 +46,10 @@ p {
 }
 
 /*links*/
+
+li {
+  font-weight: bold;
+}
 
 .nav-item a:link {
   color: green;
