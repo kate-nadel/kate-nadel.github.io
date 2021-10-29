@@ -1,12 +1,15 @@
 
+
+
+
 body {
   margin: 2;
   font-family: monospace;
   /* font-weight: bold; */
   background-color: #d2ebe0 !important;
-
+  height: 100vh;
+  cursor: url("imgs/flower-icon.png"), auto;
 }
-
 
 p {
   font-weight: normal;
