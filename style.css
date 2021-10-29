@@ -8,6 +8,14 @@ body {
 }
 
 
+p {
+  font-weight: normal;
+  font-family: 'Roboto' !important;
+}
+
+
+
+
 .col-8 {
   background-color: white
 
@@ -40,10 +48,6 @@ h3 {
 
 }
 
-
-p {
-  font-weight: normal;
-}
 
 /*links*/
 
