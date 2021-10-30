@@ -1,14 +1,17 @@
 
 
 
-
 body {
+  background-color: #d2ebe0 !important;
+}
+.container-fluid {
   margin: 2;
   font-family: monospace;
   /* font-weight: bold; */
-  background-color: #d2ebe0 !important;
+
   height: 100vh;
-  cursor: url("imgs/flower-icon.png"), auto;
+  cursor: url("imgs/flower.png"), crosshair;
+  /* cursor by By Made by Made, AU, In the Flowers Collection */
 }
 
 p {
@@ -17,14 +20,15 @@ p {
 }
 
 
-
-
-.col-8 {
+.col-sm-8 {
   background-color: white
 
 
 }
 
+.col-sm-4 {
+  background-color: #d2ebe0 !important;
+}
 
 
 
@@ -41,6 +45,10 @@ h3 {
   font-size: 20px
 }
 
+.footer{
+  text-align: right;
+  /* background-color: white */
+}
 
 
 /* .container-fluid {
@@ -60,6 +68,7 @@ li {
 
 .nav-item a:link {
   color: green;
+  cursor: url("imgs/flower.png"), crosshair;
 
 }
 
