@@ -87,3 +87,7 @@ li {
   color: blue;
 
 }
+
+a {
+  cursor: crosshair;
+}
