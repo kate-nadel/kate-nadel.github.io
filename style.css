@@ -10,7 +10,7 @@ body {
   /* font-weight: bold; */
 
   height: 100vh;
-  cursor: url("imgs/flower.png"), crosshair;
+  cursor: url("imgs/cursor_reg2.png"), crosshair;
   /* cursor by By Made by Made, AU, In the Flowers Collection */
 }
 
@@ -68,7 +68,7 @@ li {
 
 .nav-item a:link {
   color: green;
-  cursor: url("imgs/flower.png"), crosshair;
+  cursor: url("imgs/cursor_links.png"), crosshair;
 
 }
 
@@ -89,5 +89,5 @@ li {
 }
 
 a {
-  cursor: crosshair;
+  cursor:  url("imgs/cursor_proj.png"), crosshair;
 }
